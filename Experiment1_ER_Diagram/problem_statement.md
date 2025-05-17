@@ -71,3 +71,4 @@ University / Hospital (choose one)
 Brief explanation of why you chose certain entities, relationships, and assumptions
 
 ## RESULT
+Thus the ER Diagram has been designed.
